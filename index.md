@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/Ti-Mobeil/Ti-Mobeil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![This is an image](http://ti-mobeil.de/-SUBDOMAINS-/files/LOGOS/Ti-LOGOS/Ti-Mobeil%204%20Twitch%20%28RED%29.png)
+![Ti-Logo (RED)](https://ti-mobeil.de/-SUBDOMAINS-/files/LOGOS/Ti-LOGOS/Ti-LOGO_3D%20-%20RED%20%5B700x700%5D.png)
 
 
 ### Markdown
