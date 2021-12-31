@@ -1,4 +1,4 @@
-# Welcome to **__Ti-Mobeil's FiveM Client-Side Mods__**
+# Welcome to **Ti-Mobeil's FiveM Client-Side Mods**
 
 You can use the [editor on GitHub](https://github.com/Ti-Mobeil/Ti-Mobeil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
